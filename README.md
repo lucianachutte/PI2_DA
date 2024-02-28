@@ -1,5 +1,5 @@
-<p align="center"><h2>PROYECTO INDIVIDUAL Nº2: Siniestros Viales Fatales en la Ciudad de Buenos Aires </h2></p> 
-
+<p align="center"><h2>PROYECTO INDIVIDUAL Nº2 </h2></p> 
+![image](https://github.com/lucianachutte/PI2_DA/blob/master/imagenes/SINIESTROS VIALES.png)
 
 *<h3> INTRODUCCIÓN:</h3>*
 Este proyecto implica desempeñar el papel de un Analista de Datos dentro de un equipo de una empresa consultora. Este equipo ha sido solicitado por el Observatorio de Movilidad y Seguridad Vial (OMSV), un centro de investigación bajo la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA), para llevar a cabo un proyecto de análisis de datos.
