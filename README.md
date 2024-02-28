@@ -1,4 +1,5 @@
 <p align="center"><h2>PROYECTO INDIVIDUAL Nº2 </h2></p> 
+
 ![image](https://github.com/lucianachutte/PI2_DA/blob/master/imagenes/SINIESTROS%20VIALES.png)
 
 *<h3> INTRODUCCIÓN:</h3>*
